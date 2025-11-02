@@ -11,7 +11,7 @@ Configure triggers (such as push or pull requests) that start workflows.
 
 Define and organize jobs and steps within a CI pipeline.
 
-Run tests automatically using Maven.
+Run tests automatically using Maven on Ubuntu runners.
 
 Integrate Checkstyle for code style analysis and JaCoCo for test coverage reporting.
 
